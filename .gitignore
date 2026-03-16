@@ -1,0 +1,19 @@
+# Database configuration
+config/db.php
+
+# PHP temporary files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vendor directory (if using Composer)
+vendor/
